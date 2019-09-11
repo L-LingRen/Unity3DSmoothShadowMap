@@ -3,7 +3,13 @@
 
 请不要直接用到项目中，仅作为demo提供参考，后果自负。  
 
-理论原理：[点击这里](https://www.cnblogs.com/lht666/p/11454296.html)  
+> ![img](SmoothShadowMap-After.png)  
+SmoothShadowMap-After  
+
+> ![img](SmoothShadowMap-Before.png)  
+SmoothShadowMap-Before  
+
+理论原理：在[这里](https://www.cnblogs.com/lht666/p/11454296.html)  
 
 #参考文献  
 Silhouette Smoothing for Real-time Rendering of Mesh Surfaces  
